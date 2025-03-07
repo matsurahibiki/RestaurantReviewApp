@@ -9,10 +9,12 @@
 /* Begin PBXBuildFile section */
 		25220FB02D7AD06000EA6FFC /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 25220FAF2D7AD06000EA6FFC /* SwiftyJSON */; };
 		25220FB32D7AD07800EA6FFC /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 25220FB22D7AD07800EA6FFC /* RealmSwift */; };
+		25220FB82D7AD75A00EA6FFC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 25220FB72D7AD75A00EA6FFC /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		25220F9D2D7AD03300EA6FFC /* RestaurantReviewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestaurantReviewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		25220FB72D7AD75A00EA6FFC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -41,6 +43,7 @@
 			children = (
 				25220F9F2D7AD03300EA6FFC /* RestaurantReviewApp */,
 				25220F9E2D7AD03300EA6FFC /* Products */,
+				25220FB72D7AD75A00EA6FFC /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25220FB82D7AD75A00EA6FFC /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
